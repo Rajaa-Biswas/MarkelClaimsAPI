@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkelClaimsAPI", "MarkelClaimsAPI\MarkelClaimsAPI.csproj", "{760DFF3C-B22B-48C0-BB78-AF313A51E191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkelClaimsAPI.Test", "MarkelClaimsAPI.Test\MarkelClaimsAPI.Test.csproj", "{F1D5EC0E-3ED4-4A10-B36A-3279CC738517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760DFF3C-B22B-48C0-BB78-AF313A51E191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760DFF3C-B22B-48C0-BB78-AF313A51E191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760DFF3C-B22B-48C0-BB78-AF313A51E191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760DFF3C-B22B-48C0-BB78-AF313A51E191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D5EC0E-3ED4-4A10-B36A-3279CC738517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D5EC0E-3ED4-4A10-B36A-3279CC738517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D5EC0E-3ED4-4A10-B36A-3279CC738517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D5EC0E-3ED4-4A10-B36A-3279CC738517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCF1853-8F37-437B-A26D-3BDDD54BCFBE}
+	EndGlobalSection
+EndGlobal
